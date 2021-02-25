@@ -1,2 +1,2 @@
 # Portifolio
- Portifólio de trabalhos em Design Gráfico
+Informações gerais de contato, cursos e trabalhos.
